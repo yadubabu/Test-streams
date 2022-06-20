@@ -1,0 +1,59 @@
+{
+  "streams": [
+    {
+      "title": "Patch",
+      "description": "this edit was made by Patch",
+      "id": 1
+    },
+    {
+      "title": "other stream",
+      "description": "here is a other stream",
+      "id": 2
+    },
+    {
+      "title": "mohini",
+      "description": "mohini description",
+      "id": 3
+    },
+    {
+      "title": "mohini",
+      "description": "mohini description",
+      "id": 4
+    },
+    {
+      "title": "vamsi",
+      "description": "vamsi is a good boy",
+      "id": 5
+    },
+    {
+      "title": "rishitha",
+      "description": "rishitha is a good girl",
+      "id": 6
+    },
+    {
+      "title": "dsfsdfs",
+      "description": "dfdsfsd",
+      "id": 7
+    },
+    {
+      "title": "Unexpected Behaviour",
+      "description": "Didint Expect That",
+      "id": 8
+    },
+    {
+      "title": "Testing",
+      "description": "pops",
+      "id": 9
+    },
+    {
+      "title": "Testing",
+      "description": "Testing this Project by me",
+      "id": 10
+    },
+    {
+      "title": "Testing",
+      "description": "Testing this Project by me",
+      "id": 11
+    }
+  ]
+}
